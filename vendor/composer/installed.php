@@ -1,12 +1,12 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'material-design',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'personal/yii2-material',
+        'reference' => 'fd54bbec2c4e489deb96cafc0990701ac092575b',
+        'name' => 'jackson892022/yii2-material',
         'dev' => true,
     ),
     'versions' => array(
@@ -17,6 +17,15 @@
             'install_path' => __DIR__ . '/../cebe/markdown',
             'aliases' => array(),
             'reference' => '25b28bae8a6f185b5030673af77b32e1163d5c6e',
+            'dev_requirement' => false,
+        ),
+        'jackson892022/yii2-material' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'material-design',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'fd54bbec2c4e489deb96cafc0990701ac092575b',
             'dev_requirement' => false,
         ),
         'mervick/material-design-icons' => array(
@@ -35,15 +44,6 @@
             'install_path' => __DIR__ . '/../mervick/yii2-material-design-icons',
             'aliases' => array(),
             'reference' => 'b3666248fc89d098372b369796da05495455706a',
-            'dev_requirement' => false,
-        ),
-        'personal/yii2-material' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'type' => 'material-design',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
-            'reference' => NULL,
             'dev_requirement' => false,
         ),
         'psr/http-message' => array(
