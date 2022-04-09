@@ -5,7 +5,7 @@
         'type' => 'material-design',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'fd54bbec2c4e489deb96cafc0990701ac092575b',
+        'reference' => '8de03bec05eec0cf7ba24719c2932a2de436d076',
         'name' => 'jackson892022/yii2-material',
         'dev' => true,
     ),
@@ -25,7 +25,7 @@
             'type' => 'material-design',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'fd54bbec2c4e489deb96cafc0990701ac092575b',
+            'reference' => '8de03bec05eec0cf7ba24719c2932a2de436d076',
             'dev_requirement' => false,
         ),
         'mervick/material-design-icons' => array(

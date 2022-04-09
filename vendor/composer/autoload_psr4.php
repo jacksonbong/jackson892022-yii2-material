@@ -9,9 +9,9 @@ return array(
     'yii\\materialicons\\' => array($vendorDir . '/mervick/yii2-material-design-icons'),
     'yii\\composer\\' => array($vendorDir . '/yiisoft/yii2-composer'),
     'yii\\' => array($vendorDir . '/yiisoft/yii2'),
+    'jackson892022\\material\\' => array($baseDir . '/'),
     'cebe\\markdown\\' => array($vendorDir . '/cebe/markdown'),
     'Psr\\SimpleCache\\' => array($vendorDir . '/psr/simple-cache/src'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
     'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-message/src'),
-    'Personal\\Yii2Material\\' => array($baseDir . '/'),
 );

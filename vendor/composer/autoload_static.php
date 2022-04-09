@@ -13,6 +13,10 @@ class ComposerStaticInit1278c0f12d8065a4d7c35e7789b3dd72
             'yii\\composer\\' => 13,
             'yii\\' => 4,
         ),
+        'j' => 
+        array (
+            'jackson892022\\material\\' => 23,
+        ),
         'c' => 
         array (
             'cebe\\markdown\\' => 14,
@@ -22,7 +26,6 @@ class ComposerStaticInit1278c0f12d8065a4d7c35e7789b3dd72
             'Psr\\SimpleCache\\' => 16,
             'Psr\\Log\\' => 8,
             'Psr\\Http\\Message\\' => 17,
-            'Personal\\Yii2Material\\' => 22,
         ),
     );
 
@@ -39,6 +42,10 @@ class ComposerStaticInit1278c0f12d8065a4d7c35e7789b3dd72
         array (
             0 => __DIR__ . '/..' . '/yiisoft/yii2',
         ),
+        'jackson892022\\material\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/',
+        ),
         'cebe\\markdown\\' => 
         array (
             0 => __DIR__ . '/..' . '/cebe/markdown',
@@ -54,10 +61,6 @@ class ComposerStaticInit1278c0f12d8065a4d7c35e7789b3dd72
         'Psr\\Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/http-message/src',
-        ),
-        'Personal\\Yii2Material\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/',
         ),
     );
 

@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Personal\\Yii2Material\\": ""
+            "jackson892022\\material\\": ""
         }
     },
     "authors": [
