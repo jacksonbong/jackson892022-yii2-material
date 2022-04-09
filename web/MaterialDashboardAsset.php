@@ -1,6 +1,6 @@
 <?php
 
-namespace deyraka\materialdashboard\web;
+namespace jackson892022\material\web;
 
 use yii\bootstrap4\BootstrapAsset;
 use yii\web\JqueryAsset;
@@ -12,7 +12,7 @@ use yii\web\AssetBundle as BaseMaterialAsset;
  */
 class MaterialDashboardAsset extends BaseMaterialAsset
 {
-    public $sourcePath = '@vendor/deyraka/yii2-material-dashboard/assets';
+    public $sourcePath = '@vendor/jackson892022/yii2-material/assets';
 
     public $css = [
         'css/material-dashboard.css?v=2.1.1',

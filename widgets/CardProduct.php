@@ -5,7 +5,7 @@
  * @link http://adminlte.yiister.ru
  */
 
-namespace deyraka\materialdashboard\widgets;
+namespace jackson892022\material\widgets;
 
 use yii\bootstrap4\Widget;
 use yii\helpers\Html;
